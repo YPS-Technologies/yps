@@ -10,13 +10,9 @@ export default function Home() {
         <link rel="icon" href="/favicon.ico" />
       </Head>
 
-      <main>
-        <Header title="Welcome to my app!" />
-        <p className="description">
-          Get started by editing <code>pages/index.js</code>
-        </p>
-      </main>
-
+   body {
+  background-image: url("https://media.discordapp.net/attachments/1089462506407329802/1096853546672074782/YPS_LOGO.jpg?width=655&height=655");
+}
       <Footer />
     </div>
   )
